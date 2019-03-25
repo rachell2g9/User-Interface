@@ -64,3 +64,125 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.container {
+	width: 900px;
+	margin: auto;
+}
+
+nav {
+	display: inline-block;
+	padding: 40px;
+	font-size: 13px;	
+
+}
+
+nav a {
+	margin: 20px;
+	text-decoration: none;
+	color: gray;
+	padding: 10px;
+}
+
+img.logo {
+	vertical-align: middle;
+
+}
+
+header {
+	padding: 70px 0 70px 0;
+}
+
+header div{
+	width: 390px;
+	height: 300px;
+	margin:	20px;
+	
+}
+.header-text {
+	font-size: 75px;
+	display: inline-block;
+	padding: 40px;
+	text-align: center;
+	vertical-align: top;
+    width: 350px;
+    margin-left: 80px
+}
+
+header img {
+	margin-left: 40px;
+}
+
+section.top-content {
+	border-top: 1px solid black;
+	margin: 10px;
+	padding: 30px 0;
+}
+.features{
+	display: inline-block;
+	width: 400px;
+	padding: 20px 0;
+}
+
+
+.about {
+	display: inline-block;
+	width: 400px;
+	margin: 20px;
+	
+}
+
+.middle-img {
+	margin: 10px;
+}
+
+section.bottom-content {
+	margin:	10px;
+	padding: 30px 0;
+	border-bottom: 1px solid black;
+}
+.services {
+	display: inline-block;
+	width: 267px;
+}
+
+.product {
+	display: inline-block;
+	width: 267px;
+	margin-left: inherit;
+
+}
+
+.vision {
+	display: inline-block;
+	width: 267px;
+	margin-left: inherit;
+}
+
+.contact {
+	margin: 40px 10px;
+	width: 150px;
+}
+
+footer {
+	margin: 10px;
+	text-align:	center;
+	padding: 80px;
+}
+
+.start-button {
+	padding: 5px;
+	text-align: center;
+	width: 150px;
+	height: 30px;
+	border: 1px solid black;
+	font-size: 16px;
+	margin: 0 auto;
+
+
+}
+
+div.start-button a {
+	text-decoration: none;
+
+}
